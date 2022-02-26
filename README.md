@@ -22,5 +22,6 @@ Although with the differences in the December percentile and the min and max I w
 ![avg_june_precip](https://user-images.githubusercontent.com/56700719/155850943-d8a8ef82-eeaa-4c40-8e9e-c2a6867f1750.JPG)
 
 Then I took a closer look at the precipitation for each year in December and comparied it to the precipitation for each year in the month of June. Some years there appears to be more precipitation in December and in other years there appears to be more precipitation in the month of June.
+
 Overall I would determine that the surf and ice cream shop business would be sustainable year-round.
 
