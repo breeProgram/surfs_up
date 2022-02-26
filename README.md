@@ -9,3 +9,6 @@ Purpose of this analysis was to determine if the surf and ice cream shop busines
 - On the other hand, the lowest 25 percentile for December temperatures is 69 degrees, warm enough for surfing and ice cream.
 ## Summary
 Looking at these results, the surf and ice cream shop business would be sustainable year-round. While the temperature does drop in December, it remains relatively warm enough for people to go out for ice cream and surfing at the beach.
+![avg_dec_temp](https://user-images.githubusercontent.com/56700719/155850838-93e03524-c211-4035-ad57-202dc191ad98.JPG)
+Although with the differences in the December percentile and the min and max I wanted to take a closer look at the average temperature in December for each year. For each year, the average temperature in December is consistently around 70 degrees.
+
